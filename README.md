@@ -9,9 +9,9 @@
 
 Desktop Design: [https://www.figma.com/file/xxxxx/Bloom-Cafe-UI-Design](https://www.figma.com/proto/NgSo8sCHXmFgXdbwU2QMTU/Bloom-Caf%C3%A9---Landing-Page?node-id=1-9&t=UILLMC0uBW0KxtEY-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-Mobile: https://www.figma.com/design/NgSo8sCHXmFgXdbwU2QMTU/Bloom-Caf%C3%A9---Landing-Page?node-id=42-7&t=5KFq2g5kI8uz1iNq-1
+Mobile: https://www.figma.com/proto/NgSo8sCHXmFgXdbwU2QMTU/Bloom-Caf%C3%A9---Landing-Page?node-id=42-7&t=1LGxaigEsQgBHAnd-1&scaling=min-zoom&content-scaling=fixed&page-id=42%3A6
 
-Case Study: https://www.figma.com/design/NgSo8sCHXmFgXdbwU2QMTU/Bloom-Caf%C3%A9---Landing-Page?node-id=43-80&t=5KFq2g5kI8uz1iNq-1
+Case Study: [https://www.figma.com/design/NgSo8sCHXmFgXdbwU2QMTU/Bloom-Caf%C3%A9---Landing-Page?node-id=43-80&t=5KFq2g5kI8uz1iNq-1](https://www.figma.com/proto/NgSo8sCHXmFgXdbwU2QMTU/Bloom-Caf%C3%A9---Landing-Page?node-id=43-81&p=f&t=MaSVrBWYBzGb7QET-1&scaling=min-zoom&content-scaling=fixed&page-id=43%3A80)
 
 
 
